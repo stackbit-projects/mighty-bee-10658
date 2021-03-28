@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Ilona. I help my clients feel better.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I can offer you a treatment tailored to your needs. Either you can choose
+      between rejuvenation or pain relief, you are welcome.
     actions:
       - label: Contact Me
         url: /contact
